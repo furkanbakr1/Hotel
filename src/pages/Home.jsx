@@ -14,16 +14,16 @@ const HomePage = ({ onReservationClick }) => {
 
   return (
     <div>
+      <Helmet>
+        <title>LuxHotel - Ana Sayfa</title>
+        <meta name="description" content="Fethiye'nin en lüks oteli. Deniz manzaralı odalar, özel plaj ve muhteşem hizmet." />
+      </Helmet>
       <Hero onReservationClick={onReservationClick} />
       <FeaturedRooms onReservationClick={onReservationClick} />
       <VirtualTour />
       <Amenities />
       <BlogSection />
       <Testimonials />
-      <Helmet>
-        <title>LuxHotel - Ana Sayfa</title>
-        <meta name="description" content="Fethiye'nin en lüks oteli. Deniz manzaralı odalar, özel plaj ve muhteşem hizmet." />
-      </Helmet>
     </div>
   );
 };
