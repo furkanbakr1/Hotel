@@ -1,0 +1,22 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "rooms": "Odalar",
+    "blog": "Blog",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "reservation": "Rezervasyon"
+  },
+  "hero": {
+    "title": "Lüks ve Konforun Adresi",
+    "subtitle": "Unutulmaz bir konaklama deneyimi için sizi bekliyoruz",
+    "reserveButton": "Hemen Rezervasyon Yap",
+    "exploreButton": "Odaları İncele"
+  },
+  "currency": {
+    "TRY": "₺",
+    "USD": "$",
+    "EUR": "€",
+    "GBP": "£"
+  }
+} 

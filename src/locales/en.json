@@ -1,0 +1,22 @@
+{
+  "navbar": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "reservation": "Book Now"
+  },
+  "hero": {
+    "title": "Luxury and Comfort Combined",
+    "subtitle": "Experience an unforgettable stay with us",
+    "reserveButton": "Book Now",
+    "exploreButton": "Explore Rooms"
+  },
+  "currency": {
+    "TRY": "₺",
+    "USD": "$",
+    "EUR": "€",
+    "GBP": "£"
+  }
+} 
